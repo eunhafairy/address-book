@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "juan",
+      "email": "juan@email.com",
+      "contact": "09999",
+      "address": "122 clark ph"
+    },
+    {
+      "name": "pedro",
+      "email": "pedro@email.com",
+      "contact": "0232999",
+      "address": "745 bulacan ph"
+    },
+    {
+      "name": "juana",
+      "email": "juana@email.com",
+      "contact": "09999",
+      "address": "322 batangas ph"
+    },
+    {
+      "name": "chriz",
+      "email": "chriz@email.com",
+      "contact": "032999",
+      "address": "915 manila ph"
+    },
+    {
+      "name": "maria",
+      "email": "maria@email.com",
+      "contact": "0634",
+      "address": "082 cebu ph"
+    },
+    {
+      "name": "iver",
+      "email": "",
+      "address": "sapang bato",
+      "contact": ""
+    },
+    {
+      "name": "ivan",
+      "email": "ivan@email.com",
+      "address": "12321 sto nino",
+      "contact": "099123"
+    },
+    {
+      "name": "bb",
+      "email": "12@email.com",
+      "address": "nanab",
+      "contact": "123123"
+    }
+  ]
+}
